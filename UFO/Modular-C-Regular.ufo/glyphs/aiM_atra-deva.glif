@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiMatra-deva" format="1">
+  <advance width="0"/>
+  <unicode hex="0948"/>
+  <outline>
+    <contour>
+      <point x="-276" y="699" type="line"/>
+      <point x="-184" y="699"/>
+      <point x="-134" y="588"/>
+      <point x="-119" y="528" type="curve"/>
+      <point x="-123" y="528" type="line"/>
+      <point x="-181" y="618"/>
+      <point x="-238" y="661"/>
+      <point x="-306" y="661" type="curve"/>
+      <point x="-370" y="610" type="line"/>
+      <point x="-236" y="610"/>
+      <point x="-211" y="500"/>
+      <point x="-131" y="500" type="curve"/>
+      <point x="-91" y="500"/>
+      <point x="-69" y="513"/>
+      <point x="-49" y="535" type="curve"/>
+      <point x="-97" y="581"/>
+      <point x="-99" y="724"/>
+      <point x="-212" y="749" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-126" y="500" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

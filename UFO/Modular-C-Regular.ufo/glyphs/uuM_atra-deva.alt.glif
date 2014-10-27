@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uuMatra-deva.alt" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-212" y="-50"/>
+      <point x="-271" y="-103"/>
+      <point x="-271" y="-168" type="curve" smooth="yes"/>
+      <point x="-271" y="-229"/>
+      <point x="-219" y="-277"/>
+      <point x="-152" y="-277" type="curve" smooth="yes"/>
+      <point x="-99" y="-277"/>
+      <point x="-57" y="-240"/>
+      <point x="-48" y="-190" type="curve"/>
+      <point x="-79" y="-178" type="line"/>
+      <point x="-83" y="-205"/>
+      <point x="-109" y="-227"/>
+      <point x="-139" y="-227" type="curve" smooth="yes"/>
+      <point x="-182" y="-227"/>
+      <point x="-201" y="-196"/>
+      <point x="-201" y="-159" type="curve" smooth="yes"/>
+      <point x="-201" y="-118"/>
+      <point x="-172" y="-81"/>
+      <point x="-123" y="-81" type="curve" smooth="yes"/>
+      <point x="-52" y="-81"/>
+      <point x="19" y="-159"/>
+      <point x="62" y="-282" type="curve"/>
+      <point x="145" y="-255" type="line"/>
+      <point x="78" y="-128"/>
+      <point x="-22" y="-50"/>
+      <point x="-123" y="-50" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-120" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>5</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
