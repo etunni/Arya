@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fa-deva" format="1">
+  <advance width="858"/>
+  <unicode hex="095E"/>
+  <outline>
+	<component base="pha-deva"/>
+	<component base="nukta-deva" xOffset="316" yOffset="-65"/>
+	<contour>
+	  <point x="426" y="500" type="move" name="top"/>
+	</contour>
+	<contour>
+	  <point x="426" y="0" type="move" name="bottom"/>
+	</contour>
+  </outline>
+  <lib>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>5</integer>
+	  <key>public.markColor</key>
+	  <string>0.04,0.57,0.04,1</string>
+	</dict>
+  </lib>
+</glyph>

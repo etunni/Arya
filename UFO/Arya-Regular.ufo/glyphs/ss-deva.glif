@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ss-deva" format="1">
+  <advance width="333"/>
+  <outline>
+	<contour>
+	  <point x="113" y="446" type="line"/>
+	  <point x="323" y="95" type="line"/>
+	  <point x="363" y="114" type="line"/>
+	  <point x="153" y="465" type="line"/>
+	</contour>
+	<component base="p-deva"/>
+  </outline>
+  <lib>
+	<dict>
+	  <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+	  <integer>11</integer>
+	  <key>public.markColor</key>
+	  <string>0.25,0.25,0.25,1</string>
+	</dict>
+  </lib>
+</glyph>

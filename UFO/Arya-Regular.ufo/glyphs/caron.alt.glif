@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.alt" format="1">
+  <advance width="162"/>
+  <outline>
+	<component base="quoteright" yOffset="98"/>
+	<contour>
+	  <point x="69" y="400" type="move" name="_topright"/>
+	</contour>
+  </outline>
+</glyph>

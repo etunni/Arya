@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringacute" format="1">
+  <advance width="197"/>
+  <outline>
+	<contour>
+	  <point x="139" y="539" type="line"/>
+	  <point x="231" y="589" type="line"/>
+	  <point x="174" y="652" type="line"/>
+	  <point x="113" y="570" type="line"/>
+	</contour>
+	<component base="ring"/>
+	<contour>
+	  <point x="99" y="400" type="move" name="_top"/>
+	</contour>
+  </outline>
+</glyph>
